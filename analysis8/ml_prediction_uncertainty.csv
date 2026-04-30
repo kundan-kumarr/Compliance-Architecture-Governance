@@ -1,0 +1,129 @@
+agreement_id,agreement_title,actual_tier,predicted_tier,predicted_probability,uncertainty
+3,Rush-Bagot Agreement,None,None,0.5548901188144962,0.44510988118550376
+6,Saint Petersburg Declaration,None,None,0.5466975285983137,0.45330247140168634
+7,Algeciras Agreement,None,None,0.5805109915180545,0.4194890084819455
+8,Treaty of Versailles,Verified,Verified,0.37372177742694673,0.6262782225730532
+10,Four Power Treaty,Consultation,None,0.6468448700100718,0.35315512998992815
+20,"Five Power Treaty, Naval Limitation Treaty",Demonstrated,Demonstrated,0.4552523500367865,0.5447476499632136
+25,The Convention for the Control of the Trade in Arms and Ammunition.,Verified,None,0.3915049954428822,0.6084950045571178
+251,"Protocol for the prohibition of the use in war of asphyxiating, poisonous or other gases, and of bacteriological methods of warfare",None,Verified,0.45593349411313816,0.5440665058868619
+301,London Naval Treaty,Demonstrated,Demonstrated,0.5212455806570131,0.4787544193429869
+302,"Second London Naval Treaty, The 1936 London Naval Treaty",Demonstrated,None,0.5209575704842703,0.47904242951572973
+40,Genocide Convention,Consultation,Verified,0.4663994472948832,0.5336005527051169
+50,Antarctic Treaty,Verified,Verified,0.5152094560072353,0.48479054399276467
+601,Hot Line Agreement,None,None,0.4173188161628135,0.5826811838371865
+602,Hot Line Modernization Agreement,None,None,0.4111359255865281,0.5888640744134719
+603,Hot Line Expansion Agreement,None,None,0.40013963876907216,0.5998603612309279
+604,Hotline Update Agreement,None,None,0.518961289762277,0.48103871023772304
+62,The Partial(Limited) Test Ban Treaty (PTBT/LTBT),None,None,0.6756919582585573,0.3243080417414427
+70,Treaty of Tlatelolco,Verified,Verified,0.5876927004157502,0.41230729958424983
+70001,Protocol I to the Treaty of Tlatelolco,None,None,0.6015088818686737,0.3984911181313263
+70002,Protocol II to the Treaty of Tlatelolco,None,None,0.5552914836614066,0.44470851633859343
+70003,Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean pursuant to resolution 267 (EV),None,Verified,0.37317007024760324,0.6268299297523967
+70004,Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean pursuant to resolution 268 (XII),None,Verified,0.3661920655520884,0.6338079344479116
+70005,Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean pursuant to resolution 290 (VII),Demonstrated,Verified,0.37164711722416316,0.6283528827758369
+80,Outer Space Treaty,Verified,Verified,0.6754618200789143,0.3245381799210857
+90,NPT,Consultation,Verified,0.6716226475006251,0.32837735249937494
+100,Accidents Measures Agreement,Demonstrated,None,0.3738405767846056,0.6261594232153944
+110,Seabed Treaty,Verified,Verified,0.6737998622499394,0.3262001377500606
+120,Incidents at Sea Agreement,Demonstrated,Demonstrated,0.6498256061037533,0.3501743938962467
+140204,S.C.C Agreed Statements (Nov 01 1978),Demonstrated,None,0.40536679013551336,0.5946332098644866
+140205,S.C.C Common Understandings (Jun 06 1985),Demonstrated,None,0.39924248297300563,0.6007575170269943
+120001,High Seas Protocol I,None,Demonstrated,0.6513536359988786,0.34864636400112137
+130,BWC,Verified,Verified,0.7883117255508999,0.2116882744491001
+1401,Interim Agreement,Verified,Verified,0.8267086502780657,0.17329134972193427
+1402,ABM Treaty,Verified,None,0.4103328492904183,0.5896671507095816
+140201,Protocol To The Treaty Between The United States of America And The Union of Soviet Socialist Republics On The Limitation Of Anti-Ballistic Missile Systems,Demonstrated,None,0.4087058469246371,0.5912941530753629
+140202,"Protocol on Procedures Governing Replacement, Dismantling or Destruction, and Notification Thereof, for ABM Systems and Their Components (July 3, 1974)",Demonstrated,None,0.4087058469246371,0.5912941530753629
+140203,Supplementary Protocol on Replacement,Demonstrated,None,0.40705064360806065,0.5929493563919394
+140206,"Memorandum Of Understanding Relating To The Treaty Between The United States of America And The Union of Soviet Socialist Republics On The Limitation Of AntiBallistic Missile Systems Of May 26, 1972",Verified,Demonstrated,0.3238336314474713,0.6761663685525288
+1403,SALT II,Verified,Verified,0.8264267130598725,0.17357328694012752
+142,Vladivostok Agreement,None,None,0.37774562298779646,0.6222543770122035
+150,Prevention of Nuclear War Agreement,Consultation,None,0.3727715128310705,0.6272284871689295
+160,"Threshold Test ban Treaty, TTBT",Verified,None,0.372232033175381,0.627767966824619
+170,"Peaceful Nuclear Explosions, PNE",Verified,None,0.3711426789615696,0.6288573210384304
+180,ENMOD,Consultation,Verified,0.467450406458712,0.5325495935412881
+185,Cooperation Agreement between Brazil and Argentina for the Development and Application of Peaceful Uses of Nuclear Energy,Consultation,None,0.39171409799100515,0.6082859020089948
+190,"CCW, CCWC",Demonstrated,Verified,0.47965154346945904,0.520348456530541
+190001,Protocol I on Non-Detectable Fragments,None,None,0.6851372366771257,0.31486276332287433
+190002,"Protocol II on Mines, BoobyTraps and Other Devices",None,None,0.6851372366771257,0.31486276332287433
+190003,Protocol III on Incediary Weapons,None,None,0.6851372366771257,0.31486276332287433
+190004,Protocol IV on Binding Laser Weapons,None,None,0.6656963844526969,0.33430361554730315
+190005,"Protocol II(Amended) on Mines, BoobyTraps and Other Devices",Demonstrated,None,0.6642291422023164,0.33577085779768356
+190006,Amendment to the Convention on Certain Conventional Weapons,None,None,0.6567498220898289,0.3432501779101711
+190007,Protocol V on Explosive Reminants of War,Demonstrated,None,0.843460062753033,0.15653993724696702
+200,Moon Agreement,Demonstrated,Verified,0.4513739163654435,0.5486260836345564
+210,Treaty of Rarotonga,Verified,Verified,0.4440392933820653,0.5559607066179346
+210001,Protocol 1 to the South Pacific Nuclear-Weapon-Free Zone Treaty,None,None,0.673811405694777,0.32618859430522296
+210002,Protocol 2 to the South Pacific Nuclear-Weapon-Free Zone Treaty,None,None,0.5659595939910368,0.4340404060089632
+210003,Protocol 3 to the South Pacific Nuclear-Weapon-Free Zone Treaty,None,None,0.5659595939910368,0.4340404060089632
+280201,START II Protocol II,None,None,0.3878974429983192,0.6121025570016808
+220,Stockholm Document,Verified,None,0.5221102986330792,0.47788970136692077
+230,NRRC Agreement,Consultation,None,0.39742574658205126,0.6025742534179488
+240,INF,Verified,None,0.5199895024926361,0.4800104975073639
+250,Ballistic Missile Launch Notification Agreement,Demonstrated,Verified,0.8209163426860177,0.17908365731398235
+320,Agreed Framework Between The United States of America And The Democratic People's Republic of Korea,Verified,None,0.47119596888708715,0.5288040311129129
+260,India Pakistan Non-Attack Agreement,Demonstrated,None,0.3965061605045459,0.6034938394954541
+264,MSE Agreement,Demonstrated,None,0.395579104360715,0.604420895639285
+266,DMA Agreement,Demonstrated,None,0.395579104360715,0.604420895639285
+270,CFE,Verified,Demonstrated,0.6683648863022578,0.33163511369774223
+270001,Adaptation of the Treaty on Conventional Armed Forces in Europe ,Verified,None,0.38892239534530726,0.6110776046546927
+272,BDA Agreement,Verified,None,0.39464459421046394,0.6053554057895361
+2801,START I,Verified,Verified,0.8196141088976794,0.18038589110232062
+2802,START II,Verified,Verified,0.8187084009946852,0.18129159900531477
+2803,New START Treaty,Verified,Verified,0.8098221318161525,0.19017786818384752
+282,Mendoza Agreement,None,None,0.6669267054650607,0.3330732945349393
+284,Guadalajara Agreement,Verified,None,0.3937026542526853,0.6062973457473146
+286,Quadripartite Agreement,Verified,None,0.6036483732452204,0.39635162675477964
+410,Joint Statement of the Fourth Round of the Six-Party Talks Beijing,None,None,0.7734061062477777,0.22659389375222228
+288,India-Pakistan Agreement on Chemical Weapons,None,None,0.37429224527036326,0.6257077547296368
+290,Declaration of South and Democratic People's Republic of Korea on the Denuclearization of the Korean Peninsula,None,None,0.36185318644331993,0.6381468135566801
+292,Nunn-Lugar Cooperative Threat Reduction (CTR) Umbrella Agreement,None,None,0.3733801778261701,0.6266198221738299
+300,Treaty on Open Skies,Verified,Verified,0.3906379202007315,0.6093620797992685
+310,CWC ,Verified,Verified,0.798498193418507,0.20150180658149297
+312,Russian-U.S. agreement concerning the disposition of highly enriched uranium extracted from nuclear weapons,None,None,0.3917966242607037,0.6082033757392963
+314,"Agreement between the US and Ukraine Concerning Assistance to Ukraine on the Elimination of Strategic Nuclear Arms, and the Prevention of Proliferation of WMD",None,None,0.3917966242607037,0.6082033757392963
+316,"Agreement between the US and Republic of Kazakhstan Concearning the destruction of Silo launchers of Inercontinental Ballisic Missiles, Emergency response, and the prevention of proliferation of WMD",Verified,None,0.37246242553045517,0.6275375744695448
+330,Bangkok Treaty,Verified,Verified,0.3967194453683371,0.6032805546316629
+330001,Treaty Protocol I,None,None,0.8617602735437614,0.1382397264562386
+340,Pelindaba Treaty,Verified,Verified,0.631358054154204,0.368641945845796
+340001,Treaty Protocol I,None,None,0.5578692179162269,0.4421307820837731
+340002,Treaty Protocol II,None,None,0.5578692179162269,0.4421307820837731
+340003,Treaty Protocol III,None,None,0.7725636818987018,0.22743631810129816
+342,Wassenaar Arrangement,Demonstrated,None,0.6752225582826892,0.3247774417173108
+344,Agreement on Sub-Regional Arms Control,Verified,None,0.6592311153132872,0.34076888468671285
+350,"Comprehensive Test ban Treaty, CTBT",Verified,Verified,0.7046864901979443,0.29531350980205573
+360,"Mine ban Treaty, Ottowa Treaty, Ottawa Convention",Verified,Demonstrated,0.6083530971016695,0.3916469028983305
+3621,Joint US Russian Statement on Chemical Weapons (Helsinki Agreement),None,None,0.6740486557248881,0.32595134427511185
+3622,Joint Statement Concerning The Anti Ballistic Missile Treaty (Helsinki Agreement),None,None,0.6740486557248881,0.32595134427511185
+3623,Joint statement on Parameters On future Reduction In Nuclear Forces (Helsinki Agreement),None,None,0.6740486557248881,0.32595134427511185
+3624,Joint US Russian Statement on European Security (Helsinki Agreement),None,None,0.6740486557248881,0.32595134427511185
+364,Agreement between the US and Republic of Kazakhstan Concearning Peaceful uses of Nuclear Energy,Consultation,None,0.3878974429983192,0.6121025570016808
+370,"American Convention Against the Illicit Manufacturing of and Trafficking in Firearms, Ammunition, Explosives, and Other Related Materials",Demonstrated,Demonstrated,0.6778329732339679,0.32216702676603215
+375,ECOWAS Moratorium,Demonstrated,None,0.6728581722193732,0.32714182778062684
+380,American Convention on Transparency in Conventional Weapons Acuisition,Demonstrated,Demonstrated,0.6732017592665588,0.3267982407334412
+382,Lahore Declaration,Demonstrated,None,0.3668386207908404,0.6331613792091596
+384,"Implementing Arrangement between the Department of Energy of the United States of America and the Ministry of Energy, Industry and Trade od the Republic of Kazakhstan concerning the Decomissioning of the BN-350 Reactor",Consultation,None,0.3668386207908404,0.6331613792091596
+386,JDEC MOA,Demonstrated,None,0.3848992343885047,0.6151007656114953
+387,Bamako Declaration,None,None,0.6704278820605538,0.3295721179394462
+388,PLNS MOU,Demonstrated,None,0.3848992343885047,0.6151007656114953
+389,"Agreement between the US and Republic of Kazakhstan Concearning the destruction of Silo launchers of Inercontinental Ballisic Missiles, Emergency response, and the prevention of proliferation of WMD (Extended)",None,None,0.3658822669057723,0.6341177330942277
+390,SORT/Treaty of Moscow,Consultation,None,0.3554759774645219,0.644524022535478
+392,The Hague Code of Conduct (HCoC),Demonstrated,None,0.6679325901288125,0.33206740987118755
+394,Moscow Summit Joint Statement,None,None,0.35293555524460246,0.6470644447553975
+400,Nairobi Protocol,None,Demonstrated,0.6451887972092316,0.3548112027907684
+405,India-Pakistan Missile Pre-Notification Agreement,Demonstrated,None,0.37977046660978303,0.620229533390217
+420,Central Asian Nuclear Weapons Free Zones,Consultation,None,0.5261236953415928,0.47387630465840724
+420001,(CANWFZ) Protocol I,None,None,0.5395385827339509,0.46046141726604906
+425,Ecowas Convention,None,None,0.32217390795410566,0.6778260920458943
+427,"Agreement between the US and Republic of Kazakhstan Concearning the destruction of Silo launchers of Inercontinental Ballisic Missiles, Emergency response, and the prevention of proliferation of WMD (Extended & Amended)",None,None,0.35904614546313085,0.6409538545368691
+430,CCM,Demonstrated,Demonstrated,0.6426221852761733,0.3573778147238267
+440,Kinshasa Convention,Demonstrated,Demonstrated,0.6488296466392012,0.3511703533607988
+445,"AU Strategy on the Control of Illicit Proliferation, Circulation and Trafficking of SALW",None,None,0.6559284195877647,0.3440715804122353
+446,CARICOM Declaration on Small Arms and Light Weapons,None,None,0.6559284195877647,0.3440715804122353
+447,Implementing Arrangement between the Department of Energy of the United States of America and the Ministry of Industry and New Technologies of the Republic of Kazakhstan for Cooperation in the field of Nuclear Material Safeguards and Security,Consultation,None,0.35503906030222704,0.6449609396977729
+450,Arms Trade Treaty (ATT),Demonstrated,Demonstrated,0.6417825471446778,0.35821745285532225
+452,A New Legal Framework for U.S.-Russian Cooperation in Nuclear Nonproliferation and Security (Building upon the CTR Umbrella Agreement),None,None,0.3530119074748755,0.6469880925251246
+460,JCPOA,Verified,None,0.5371922137304789,0.4628077862695211
+470,TPNW,Demonstrated,Verified,0.6661082597297785,0.3338917402702215
+480,U.S.-Russia Presidential Joint Statement on Strategic Stability,None,Demonstrated,0.34560176456294445,0.6543982354370556

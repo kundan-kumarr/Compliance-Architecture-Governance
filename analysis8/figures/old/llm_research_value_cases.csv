@@ -1,0 +1,4 @@
+research_signal,meaning,agreement_id,title_short,year,actual_label,llm_label,interpretation
+Policy gap,LLM expects stronger oversight than AMC coding shows.,,Pending valid LLM classifications,,Lower AMC tier,Higher LLM tier,"Treaty appears ambitious from surface cues, but coded architecture lacks equivalent operational machinery."
+Hidden compliance,AMC coding shows stronger oversight than the LLM expects.,,Pending valid LLM classifications,,Higher AMC tier,Lower LLM tier,"Compliance machinery exists, but it is not obvious from treaty name, weapon category, or brief definitions alone."
+Validity check,LLM and AMC coding agree.,,Pending valid LLM classifications,,Same tier,Same tier,Surface treaty cues align with the human-coded compliance architecture.
